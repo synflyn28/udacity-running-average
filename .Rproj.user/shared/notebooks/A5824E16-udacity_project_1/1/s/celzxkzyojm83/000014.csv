@@ -1,0 +1,4 @@
+"0","complete_data <- mutate("
+"0","    complete_data, "
+"0","    global_roll_avg = rollmean(global_avg_temp, 10, fill = NA)) %>% "
+"0","    mutate(clt_roll_avg = rollmean(clt_avg_temp, 10, fill = NA))"

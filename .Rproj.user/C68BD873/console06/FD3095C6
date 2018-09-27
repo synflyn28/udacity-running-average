@@ -1,0 +1,10 @@
+git init
+Initialized empty Git repository in /Users/justinreid/Data_Science_Projects/dand_1/.git/
+]0;~/Data_Science_Projects/dand_1Justins-MacBook-Pro:dand_1 justinreid$ git a[Kremove add origin https://github. com/synflyn28/udacity-running-average.git
+git: 'remove' is not a git command. See 'git --help'.
+
+The most similar command is
+	remote
+]0;~/Data_Science_Projects/dand_1Justins-MacBook-Pro:dand_1 justinreid$ git remove add origin https://github.ccom/synflyn28/udacity-running-average.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce add origin https://github.co[1Pm/synflyn28/udacity-running-average.git[A[C[C[C[C[C[C[Cte add origin https://github.com/synflyn28/udacity-running-average.git[A[C[C[C[C[C[C[C
+
+]0;~/Data_Science_Projects/dand_1Justins-MacBook-Pro:dand_1 justinreid$ git add .

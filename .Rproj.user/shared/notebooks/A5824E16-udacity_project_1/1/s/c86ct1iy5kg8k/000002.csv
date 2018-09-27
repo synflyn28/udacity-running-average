@@ -1,0 +1,2 @@
+"0","global_data <- read_csv('data/global_data.csv')"
+"0","city_data <- read_csv('data/city_temp_clt.csv')"

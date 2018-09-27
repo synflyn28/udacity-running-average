@@ -1,0 +1,3 @@
+"0","complete_data <- left_join(global_data, city_data, by=""year"") %>%"
+"0","    select(year, avg_temp.x, avg_temp.y)"
+"0","colnames(complete_data) <- c(""year"", ""global_avg_temp"", ""clt_avg_temp"")"

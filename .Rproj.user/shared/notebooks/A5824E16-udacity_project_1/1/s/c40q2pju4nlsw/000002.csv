@@ -1,0 +1,7 @@
+"0","ggplot(data = complete_data) +"
+"0","    geom_line(aes(x = year, y = global_roll_avg, color='Global')) +"
+"0","    geom_line(aes(x = year, y = clt_roll_avg, color='Charlotte')) +"
+"0","    scale_color_manual(values = c(""Global"" = ""black"", ""Charlotte"" = ""red"")) +"
+"0","    ggtitle('10-Year Rolling Average Temp') +"
+"0","    labs(x = 'Year', y = Temp ~degree~C , color = 'Location') +"
+"0","    theme(plot.title = element_text(hjust = 0.5))"
