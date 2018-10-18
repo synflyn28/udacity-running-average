@@ -8,3 +8,59 @@ The most similar command is
 ]0;~/Data_Science_Projects/dand_1Justins-MacBook-Pro:dand_1 justinreid$ git remove add origin https://github.ccom/synflyn28/udacity-running-average.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce add origin https://github.co[1Pm/synflyn28/udacity-running-average.git[A[C[C[C[C[C[C[Cte add origin https://github.com/synflyn28/udacity-running-average.git[A[C[C[C[C[C[C[C
 
 ]0;~/Data_Science_Projects/dand_1Justins-MacBook-Pro:dand_1 justinreid$ git add .
+]0;~/Data_Science_Projects/dand_1Justins-MacBook-Pro:dand_1 justinreid$ git commit -m "Initial Commit"
+[master (root-commit) 51bd632] Initial Commit
+ 39 files changed, 1222 insertions(+)
+ create mode 100644 .RData
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/C68BD873/console06/FD3095C6
+ create mode 100644 .Rproj.user/C68BD873/console06/INDEX001
+ create mode 100644 .Rproj.user/C68BD873/pcs/debug-breakpoints.pper
+ create mode 100644 .Rproj.user/C68BD873/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/C68BD873/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/C68BD873/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/C68BD873/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/C68BD873/persistent-state
+ create mode 100644 .Rproj.user/C68BD873/rmd-outputs
+ create mode 100644 .Rproj.user/C68BD873/saved_source_markers
+ create mode 100644 .Rproj.user/C68BD873/sources/prop/396ED442
+ create mode 100644 .Rproj.user/C68BD873/sources/prop/5C2EA8B1
+ create mode 100644 .Rproj.user/C68BD873/sources/prop/D846412
+ create mode 100644 .Rproj.user/C68BD873/sources/prop/INDEX
+ create mode 100644 .Rproj.user/C68BD873/sources/s-15CC90D5/DB910907
+ create mode 100644 .Rproj.user/C68BD873/sources/s-15CC90D5/DB910907-contents
+ create mode 100644 .Rproj.user/C68BD873/sources/s-15CC90D5/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/C68BD8737873837D/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/C68BD873CA00C363/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/C68BD873EE4A5C10/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/c40q2pju4nlsw/000002.csv
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/c40q2pju4nlsw/000003.metadata
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/c40q2pju4nlsw/000003.png
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/c86ct1iy5kg8k/000002.csv
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/celzxkzyojm83/000014.csv
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/cn8253wv3nw17/000046.csv
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/cr2ndboo1xk4i/000002.csv
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/csetup_chunk/000002.csv
+ create mode 100644 .Rproj.user/shared/notebooks/A5824E16-udacity_project_1/1/s/ctw87kn39gljd/000004.csv
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 dand_1.Rproj
+ create mode 100644 data/city_temp_clt.csv
+ create mode 100644 data/global_data.csv
+ create mode 100644 udacity_project_1.Rmd
+ create mode 100644 udacity_project_1.pdf
+]0;~/Data_Science_Projects/dand_1Justins-MacBook-Pro:dand_1 justinreid$ git push origin master
+Counting objects: 60, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/43)   Compressing objects:   4% (2/43)   Compressing objects:   6% (3/43)   Compressing objects:   9% (4/43)   Compressing objects:  11% (5/43)   Compressing objects:  13% (6/43)   Compressing objects:  16% (7/43)   Compressing objects:  18% (8/43)   Compressing objects:  20% (9/43)   Compressing objects:  23% (10/43)   Compressing objects:  25% (11/43)   Compressing objects:  27% (12/43)   Compressing objects:  30% (13/43)   Compressing objects:  32% (14/43)   Compressing objects:  34% (15/43)   Compressing objects:  37% (16/43)   Compressing objects:  39% (17/43)   Compressing objects:  41% (18/43)   Compressing objects:  44% (19/43)   Compressing objects:  46% (20/43)   Compressing objects:  48% (21/43)   Compressing objects:  51% (22/43)   Compressing objects:  53% (23/43)   Compressing objects:  55% (24/43)   Compressing objects:  58% (25/43)   Compressing objects:  60% (26/43)   Compressing objects:  62% (27/43)   Compressing objects:  65% (28/43)   Compressing objects:  67% (29/43)   Compressing objects:  69% (30/43)   Compressing objects:  72% (31/43)   Compressing objects:  74% (32/43)   Compressing objects:  76% (33/43)   Compressing objects:  79% (34/43)   Compressing objects:  81% (35/43)   Compressing objects:  83% (36/43)   Compressing objects:  86% (37/43)   Compressing objects:  88% (38/43)   Compressing objects:  90% (39/43)   Compressing objects:  93% (40/43)   Compressing objects:  95% (41/43)   Compressing objects:  97% (42/43)   Compressing objects: 100% (43/43)   Compressing objects: 100% (43/43), done.
+Writing objects:   1% (1/60)   Writing objects:   3% (2/60)   Writing objects:   5% (3/60)   Writing objects:   6% (4/60)   Writing objects:   8% (5/60)   Writing objects:  10% (6/60)   Writing objects:  11% (7/60)   Writing objects:  13% (8/60)   Writing objects:  15% (9/60)   Writing objects:  16% (10/60)   Writing objects:  18% (11/60)   Writing objects:  20% (12/60)   Writing objects:  21% (13/60)   Writing objects:  23% (14/60)   Writing objects:  25% (15/60)   Writing objects:  26% (16/60)   Writing objects:  28% (17/60)   Writing objects:  30% (18/60)   Writing objects:  31% (19/60)   Writing objects:  33% (20/60)   Writing objects:  35% (21/60)   Writing objects:  36% (22/60)   Writing objects:  38% (23/60)   Writing objects:  40% (24/60)   Writing objects:  41% (25/60)   Writing objects:  43% (26/60)   Writing objects:  45% (27/60)   Writing objects:  46% (28/60)   Writing objects:  48% (29/60)   Writing objects:  50% (30/60)   Writing objects:  51% (31/60)   Writing objects:  53% (32/60)   Writing objects:  55% (33/60)   Writing objects:  56% (34/60)   Writing objects:  58% (35/60)   Writing objects:  60% (36/60)   Writing objects:  61% (37/60)   Writing objects:  63% (38/60)   Writing objects:  65% (39/60)   Writing objects:  66% (40/60)   Writing objects:  68% (41/60)   Writing objects:  70% (42/60)   Writing objects:  71% (43/60)   Writing objects:  73% (44/60)   Writing objects:  75% (45/60)   Writing objects:  76% (46/60)   Writing objects:  78% (47/60)   Writing objects:  80% (48/60)   Writing objects:  81% (49/60)   Writing objects:  83% (50/60)   Writing objects:  85% (51/60)   Writing objects:  86% (52/60)   Writing objects:  88% (53/60)   Writing objects:  90% (54/60)   Writing objects:  91% (55/60)   Writing objects:  93% (56/60)   Writing objects:  95% (57/60)   Writing objects:  96% (58/60)   Writing objects:  98% (59/60)   Writing objects: 100% (60/60)   Writing objects: 100% (60/60), 317.50 KiB | 2.81 MiB/s, done.
+Total 60 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/synflyn28/udacity-running-average/pull/new/master[K
+remote: 
+To https://github.com/synflyn28/udacity-running-average.git
+ * [new branch]      master -> master
+git add .
